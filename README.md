@@ -62,13 +62,21 @@ An intelligent, full-stack movie ticket booking system built with **Next.js**, *
 ## 📁 Project Structure
 
 /client # Next.js frontend
+
 /server # Node.js backend API
+
 /ml-services # Python Flask APIs (ML models)
+
 ├── recommender.py
+
 ├── seat_predictor.py
+
 └── fraud_detector.py
+
 /postman_collection # Test suite for all APIs
+
 .env.example # Example environment variables
+
 README.md # This file
 
 
