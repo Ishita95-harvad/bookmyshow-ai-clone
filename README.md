@@ -15,22 +15,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)
 
 </div>
-# 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
 
+---
+
+### Project Title: 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
-## Project Title: 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
-## URL: github.com/ishita95-harvad/bookmyshow-ai-clone
+#### URL: github.com/ishita95-harvad/bookmyshow-ai-clone
 
-## Summary:
+### Summary:
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
 
-## Key Contributions:
+### Key Contributions:
 
 Developed microservices using Node.js (Express) and Flask (Python)
 
-Built ML models: Collaborative Filtering, XGBoost seat prediction, Logistic regression fraud detector
+**Built ML models:** Collaborative Filtering, XGBoost seat prediction, Logistic regression fraud detector
 
 Integrated OpenAI GPT-4 API for conversational ticket booking
 
@@ -40,17 +41,17 @@ Deployed frontend on Vercel, backend and ML services on Render
 
 Authored README, Postman suite, and deployment docs for production readiness
 
-Stack: Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
+**Stack:** Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
-/client # Next.js frontend
+**/client** # Next.js frontend
 
-/server # Node.js backend API
+**/server** # Node.js backend API
 
-/ml-services # Python Flask APIs (ML models)
+**/ml-services** # Python Flask APIs (ML models)
 
 ├── recommender.py
 
@@ -58,16 +59,15 @@ Stack: Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python ·
 
 └── fraud_detector.py
 
-/postman_collection # Test suite for all APIs
+**/postman_collection** # Test suite for all APIs
 
-.env.example # Example environment variables
-
+**.env.example** # Example environment variables
 README.md # This file
 
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - 🎦 Browse and book movies with real-time seat selection
 - 🧠 **ML-powered Recommender System** (Collaborative Filtering)
@@ -80,7 +80,7 @@ README.md # This file
 
 ---
 
-## 🧩 Tech Stack
+### 🧩 Tech Stack
 
 | Layer         | Technology             |
 |---------------|-------------------------|
@@ -94,7 +94,7 @@ README.md # This file
 
 ---
 
-## 🧠 AI Agents
+### 🧠 AI Agents
 
 | Agent Name              | Type              | Function                                 |
 |------------------------|-------------------|------------------------------------------|
@@ -105,7 +105,7 @@ README.md # This file
 
 ---
 
-## 📦 How to Run Locally
+### 📦 How to Run Locally
 
 ```bash
 # Clone the repo
