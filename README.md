@@ -27,6 +27,8 @@ An intelligent, full-stack movie ticket booking system built with **Next.js**, *
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
 
+![image] (
+
 ### Key Contributions:
 
 Developed microservices using Node.js (Express) and Flask (Python)
