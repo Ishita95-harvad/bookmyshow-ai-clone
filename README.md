@@ -19,6 +19,52 @@
 
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
+## Project Title: 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
+## URL: github.com/ishita95-harvad/bookmyshow-ai-clone
+
+## Summary:
+
+Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
+
+## Key Contributions:
+
+Developed microservices using Node.js (Express) and Flask (Python)
+
+Built ML models: Collaborative Filtering, XGBoost seat prediction, Logistic regression fraud detector
+
+Integrated OpenAI GPT-4 API for conversational ticket booking
+
+Implemented secure, sandboxed Razorpay payment gateway
+
+Deployed frontend on Vercel, backend and ML services on Render
+
+Authored README, Postman suite, and deployment docs for production readiness
+
+Stack: Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
+
+---
+
+## 📁 Project Structure
+
+/client # Next.js frontend
+
+/server # Node.js backend API
+
+/ml-services # Python Flask APIs (ML models)
+
+├── recommender.py
+
+├── seat_predictor.py
+
+└── fraud_detector.py
+
+/postman_collection # Test suite for all APIs
+
+.env.example # Example environment variables
+
+README.md # This file
+
+
 ---
 
 ## 🚀 Features
@@ -56,29 +102,6 @@ An intelligent, full-stack movie ticket booking system built with **Next.js**, *
 | 📊 Seat Demand Predictor | Predictive Agent | Forecasts seat availability for shows    |
 | 🔐 Fraud Detection Bot | Reflex Agent      | Flags risky payment behavior             |
 | 🤖 GPT Booking Chatbot | NLP Agent         | Books tickets via OpenAI GPT interaction |
-
----
-
-## 📁 Project Structure
-
-/client # Next.js frontend
-
-/server # Node.js backend API
-
-/ml-services # Python Flask APIs (ML models)
-
-├── recommender.py
-
-├── seat_predictor.py
-
-└── fraud_detector.py
-
-/postman_collection # Test suite for all APIs
-
-.env.example # Example environment variables
-
-README.md # This file
-
 
 ---
 
