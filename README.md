@@ -13,14 +13,14 @@
 ![Render](https://img.shields.io/badge/Backend-Hosted%20on%20Render-0077CC?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)
-
+#### URL: github.com/ishita95-harvad/bookmyshow-ai-clone
 </div>
 
 ---
 
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
-#### URL: github.com/ishita95-harvad/bookmyshow-ai-clone
+
 
 ### Summary:
 
@@ -38,6 +38,9 @@ Admin dashboard to manage movies, screens, and showtimes
 
 User login/signup, booking history, and e-tickets
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
+<div></div>
+
+
 
 ### Key Contributions:
 
