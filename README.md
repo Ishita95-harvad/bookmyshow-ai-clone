@@ -25,7 +25,18 @@ An intelligent, full-stack movie ticket booking system built with **Next.js**, *
 ### Summary:
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
+ 
+ It includes:
 
+Movie listings by genre, location, and date
+
+Real-time seat selection
+
+Secure booking with payment integration (mocked or real)
+
+Admin dashboard to manage movies, screens, and showtimes
+
+User login/signup, booking history, and e-tickets
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
 
 ### Key Contributions:
@@ -97,9 +108,10 @@ book-your-show/
 | ML Services   | Python (Flask), scikit-learn, XGBoost |
 | Chatbot       | OpenAI GPT-4 API        |
 | Database      | MongoDB (Atlas)         |
-| Payment       | Razorpay (Sandbox)      |
+| Payment       | Razorpay / Stripe (sandbox) |
 | Deployment    | Vercel, Render          |
-
+| DevOps	      | GitHub + CI/CD (optional) |
+|Authentication	|JWT / Firebase Auth |
 ---
 
 ### 🧠 AI Agents
