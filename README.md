@@ -16,13 +16,7 @@
 </div>
 
 ---
-
-An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
-
-
-
-
-## Summary:
+## Summary
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
  
@@ -45,6 +39,10 @@ This is a **movie/event ticket booking app** that includes:
 🧾 Booking Confirmation Page
 <div></div>
 
+An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
+
+----
+
 ## 📌 Overview
 
 An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI features:
@@ -53,64 +51,14 @@ An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI
 - 📊 Seat demand forecasting
 - 🛡️ Fraud detection module
 - 🧩 Modular microservices architecture
+  
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
 <div></div>
 
-
-### Key Contributions:
-
-Developed microservices using Node.js (Express) and Flask (Python)
-
-**Built ML models:** Collaborative Filtering, XGBoost seat prediction, Logistic regression fraud detector
-
-Integrated OpenAI GPT-4 API for conversational ticket booking
-
-Implemented secure, sandboxed Razorpay payment gateway
-
-Deployed frontend on Vercel, backend and ML services on Render
-
-Authored README, Postman suite, and deployment docs for production readiness
-
-**Stack:** Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
-
----
-
-### 📁 Project Structure
-
-book-your-show/
-
-**├── client/ (React or Flutter)**
-
-│   ├── pages/
-
-│   ├── components/
-
-│   └── services/ (API calls)
-
-**├── server/**
-
-│   ├── routes/
-
-│   ├── controllers/
-
-│   └── db.json (if using JSON Server)
-
-**├── README.md**
-
-├── .gitignore
-
-├── package.json (both frontend & backend)
-
-└── LICENSE
-
-**├── package.json**
-
-**└── .env**
-
----
+-----
 
 ### 🚀 Features
-- 🎦 Browse and book movies with real-time seat selection
+- 🎦 Browse and book movies with **real-time seat selection**
 - 🧠 **ML-powered Recommender System** (Collaborative Filtering)
 - 📈 **Seat Demand Predictor** using XGBoost
 - 🔐 **Fraud Detection Agent** for secure bookings
@@ -160,6 +108,56 @@ book-your-show/
 
 ---
 
+### 📁 Project Structure
+
+book-your-show/
+
+**├── client/ (React or Flutter)**
+
+│   ├── pages/
+
+│   ├── components/
+
+│   └── services/ (API calls)
+
+**├── server/**
+
+│   ├── routes/
+
+│   ├── controllers/
+
+│   └── db.json (if using JSON Server)
+
+**├── README.md**
+
+├── .gitignore
+
+├── package.json (both frontend & backend)
+
+└── LICENSE
+
+**├── package.json**
+
+**└── .env**
+
+---
+### Key Contributions:
+
+**Developed microservices** using Node.js (Express) and Flask (Python)
+
+**Built ML models:** Collaborative Filtering, XGBoost seat prediction, Logistic regression fraud detector
+
+Integrated OpenAI GPT-4 API for **conversational ticket booking**
+
+Implemented secure, sandboxed Razorpay **payment gateway**
+
+**Deployed frontend** on Vercel, backend and ML services on Render
+
+Authored README, Postman suite, and deployment docs for production readiness
+
+**Stack:** Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
+
+---
 ### 📦 How to Run Locally
 
 ```bash
@@ -181,6 +179,8 @@ npm run dev
 cd ../ml-services
 pip install -r requirements.txt
 python app.py
+
+---
 
 # 🧱 App Features (Polished)
 
@@ -223,3 +223,7 @@ Neon accent buttons.
 Dark/light mode toggle (optional).
 
 Elegant modals for booking confirmation.
+
+-----
+
+
