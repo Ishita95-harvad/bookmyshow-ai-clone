@@ -1,0 +1,32 @@
+🧪 Core Features:
+User Module:
+
+Sign up / Login
+
+Browse movies by city
+
+View showtimes and availability
+
+Select seat(s) and pay
+
+Download e-ticket (PDF/QR)
+
+Admin Module:
+
+Add/Edit/Delete Movies
+
+Manage Cinemas and Screens
+
+Schedule Showtimes
+
+View all bookings
+
+Bonus Features:
+
+QR-code ticket validation
+
+Reviews & ratings
+
+Real-time seat lock (Socket.io / Firebase)
+
+Email/SMS confirmation (SendGrid / Twilio)
