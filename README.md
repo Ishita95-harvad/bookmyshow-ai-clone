@@ -79,6 +79,12 @@ book-your-show/
 
 **├── README.md**
 
+├── .gitignore
+
+├── package.json (both frontend & backend)
+
+└── LICENSE
+
 **├── package.json**
 
 **└── .env**
