@@ -18,7 +18,6 @@
 
 ---
 
-### Project Title: 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
 #### URL: github.com/ishita95-harvad/bookmyshow-ai-clone
