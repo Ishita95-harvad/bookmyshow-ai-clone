@@ -49,22 +49,29 @@ Authored README, Postman suite, and deployment docs for production readiness
 
 ### 📁 Project Structure
 
-**/client** # Next.js frontend
+book-your-show/
 
-**/server** # Node.js backend API
+**├── client/ (React or Flutter)**
 
-**/ml-services** # Python Flask APIs (ML models)
+│   ├── pages/
 
-├── recommender.py
+│   ├── components/
 
-├── seat_predictor.py
+│   └── services/ (API calls)
 
-└── fraud_detector.py
+**├── server/**
 
-**/postman_collection** # Test suite for all APIs
+│   ├── routes/
 
-**.env.example** # Example environment variables
-README.md # This file
+│   ├── controllers/
+
+│   └── db.json (if using JSON Server)
+
+**├── README.md**
+
+**├── package.json**
+
+**└── .env**
 
 
 ---
