@@ -152,3 +152,45 @@ npm run dev
 cd ../ml-services
 pip install -r requirements.txt
 python app.py
+
+# 🧱 App Features (Polished)
+
+🎬 Home Page
+Polished movie cards with poster, genre, ratings.
+
+Hover effects and click-to-details.
+
+📄 Movie Details Page
+Showtimes by city and venue.
+
+"Book Now" CTA per showtime.
+
+🎟 Booking Page
+Visual seat layout.
+
+Seat selection with availability status.
+
+Booking form with name, contact, and show info.
+
+✅ Booking Confirmation
+Shows ticket ID, seats, movie info.
+
+Option to "View My Bookings".
+
+🧾 My Bookings Page
+Shows your past tickets (linked to mock user ID).
+
+Responsive & clean layout.
+
+✨ UI Preview (Tailwind Based)
+Imagine this:
+
+Hero section with dynamic banner slider.
+
+Modern card grids.
+
+Neon accent buttons.
+
+Dark/light mode toggle (optional).
+
+Elegant modals for booking confirmation.
