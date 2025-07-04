@@ -21,12 +21,20 @@
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
 
+## 📌 Overview
+
+An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI features:
+- 🎥 Smart movie recommendations
+- 🧠 AI-powered chatbot assistant (GPT-4)
+- 📊 Seat demand forecasting
+- 🛡️ Fraud detection module
+- 🧩 Modular microservices architecture
 
 ### Summary:
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
  
- ### ✅ Pilot Project Overview: "Book Your Show" App
+ #### ✅ Pilot Project Overview: "Book Your Show" App
  
 This is a **movie/event ticket booking app** that includes:
 
@@ -46,7 +54,6 @@ This is a **movie/event ticket booking app** that includes:
 
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
 <div></div>
-
 
 
 ### Key Contributions:
@@ -99,11 +106,9 @@ book-your-show/
 
 **└── .env**
 
-
 ---
 
 ### 🚀 Features
-
 - 🎦 Browse and book movies with real-time seat selection
 - 🧠 **ML-powered Recommender System** (Collaborative Filtering)
 - 📈 **Seat Demand Predictor** using XGBoost
@@ -112,6 +117,19 @@ book-your-show/
 - 💳 **Razorpay Sandbox Payment Integration**
 - 🧪 **Postman Collection** for API testing
 - 🌐 **Deployed on Vercel + Render**
+
+### 🤖 AI Modules
+- **Smart Recommender System**: Collaborative filtering for user-personalized movie suggestions.
+- **Seat Demand Forecasting**: XGBoost model trained on booking history.
+- **Fraud Detection Engine**: Logistic regression to flag payment anomalies.
+- **AI Chat Assistant**: GPT-4-based conversational flow to help users book tickets.
+
+### ⚙️ Architecture
+- **Frontend**: React.js with Tailwind CSS
+- **Backend**: Node.js + Express.js
+- **AI Services**: Flask-based microservices
+- **Database**: MongoDB (Mongoose)
+- **Deployment**: Render / Vercel / Azure (optional)
 
 ---
 
