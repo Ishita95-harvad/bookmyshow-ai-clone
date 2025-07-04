@@ -26,17 +26,23 @@ An intelligent, full-stack movie ticket booking system built with **Next.js**, *
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
  
- It includes:
+ ✅ Pilot Project Overview: "Book Your Show" App
+This is a movie/event ticket booking app that includes:
 
-Movie listings by genre, location, and date
+🎬 Movie Listings (from a mock or real API)
 
-Real-time seat selection
+🗓️ Showtimes and Availability
 
-Secure booking with payment integration (mocked or real)
+📍 Location-Based Venue Selection
 
-Admin dashboard to manage movies, screens, and showtimes
+🎟️ Ticket Booking Flow
 
-User login/signup, booking history, and e-tickets
+💳 Dummy Payment Gateway
+
+🔍 Search & Filter
+
+🧾 Booking Confirmation Page
+
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
 <div></div>
 
