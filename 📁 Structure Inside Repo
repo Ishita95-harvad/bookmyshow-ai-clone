@@ -1,0 +1,14 @@
+book-your-show-app/
+├── client/       → React + Tailwind Frontend
+│   ├── src/
+│   ├── public/
+│   └── tailwind.config.js
+├── server/       → Node.js + Express Backend
+│   ├── index.js
+│   ├── routes/
+│   ├── data/
+│   └── controllers/
+├── README.md     → Project setup & usage guide
+├── .gitignore
+├── package.json (both frontend & backend)
+└── LICENSE
