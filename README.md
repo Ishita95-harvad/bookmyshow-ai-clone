@@ -1,5 +1,5 @@
 
-# 🎬 AI-Powered Movie Ticket Booking System (BookMyShow Clone)
+# 🎬 AI-Powered Movie Ticket Booking System 
 
 <div align="center">
   
