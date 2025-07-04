@@ -1,5 +1,5 @@
 
-# 🎬 AI-Powered Movie Ticket Booking System 
+# 🎬 AI-Powered Movie Ticket Booking System (bookmyshow-ai-clone)
 <div align="center">
   
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -20,16 +20,9 @@
 An intelligent, full-stack movie ticket booking system built with **Next.js**, **Node.js**, **Flask**, and **OpenAI GPT-4**, inspired by the functionality of BookMyShow.
 
 
-## 📌 Overview
 
-An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI features:
-- 🎥 Smart movie recommendations
-- 🧠 AI-powered chatbot assistant (GPT-4)
-- 📊 Seat demand forecasting
-- 🛡️ Fraud detection module
-- 🧩 Modular microservices architecture
 
-### Summary:
+## Summary:
 
 Developed a full-stack, intelligent movie booking platform integrating AI-driven components like a movie recommender system, seat demand predictor, fraud detection engine, and GPT-4 chatbot assistant. Inspired by BookMyShow, but reimagined with modern AI.
  
@@ -50,7 +43,16 @@ This is a **movie/event ticket booking app** that includes:
 🔍 Search & Filter
 
 🧾 Booking Confirmation Page
+<div></div>
 
+## 📌 Overview
+
+An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI features:
+- 🎥 Smart movie recommendations
+- 🧠 AI-powered chatbot assistant (GPT-4)
+- 📊 Seat demand forecasting
+- 🛡️ Fraud detection module
+- 🧩 Modular microservices architecture
 ![image](https://github.com/Ishita95-harvad/book-my-show/blob/main/dcb60c8b-843b-430d-8de8-3848577c2997.png)
 <div></div>
 
