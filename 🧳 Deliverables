@@ -1,0 +1,51 @@
+🧳 Deliverables (Once Confirmed)
+✅ 📁 Zipped Full Project Folder, including:
+
+/client → Next.js frontend
+
+/server → Node.js backend
+
+/ml-services → Python (Flask) microservices:
+
+🎬 Movie Recommender
+
+🪑 Seat Demand Predictor
+
+🔐 Fraud Detection
+
+✅ 📄 README.md with:
+
+Setup instructions (local + deployment)
+
+API structure + endpoints
+
+Env variable details
+
+✅ 🧪 Postman Collection:
+
+User flow: signup → browse → select → book
+
+ML API testing endpoints
+
+Chatbot integration test
+
+✅ 🤖 Chatbot Integration:
+
+GPT-4 OpenAI API (with basic prompt + booking logic)
+
+Booking assistant UI module
+
+✅ 🚀 Deployment Instructions:
+
+Frontend on Vercel
+
+Backend + ML on Render or Azure
+
+Domain + SSL setup
+
+✅ 🌐 Optional GitHub Upload:
+
+Versioned commits
+
+Dev branch with ML improvements
+
