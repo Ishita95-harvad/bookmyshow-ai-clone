@@ -1,0 +1,18 @@
+✅ Initial Commit Includes:
+Movie listing with mock data.
+
+Tailwind-styled homepage and booking form.
+
+Working Express backend with endpoints:
+
+/api/movies
+
+/api/movies/:id
+
+/api/venues
+
+/api/book
+
+/api/bookings/:userId
+
+Mobile-responsive design with Heroicons and polished UI.
