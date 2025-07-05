@@ -1,0 +1,7 @@
+🔐 Environment Variables
+Create a .env file in /server and /client with:
+
+MONGO_URI=your_mongodb_uri
+RAZORPAY_KEY=your_key
+RAZORPAY_SECRET=your_secret
+OPENAI_API_KEY=your_gpt_key
