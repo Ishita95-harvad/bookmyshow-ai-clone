@@ -12,7 +12,7 @@
 ![Render](https://img.shields.io/badge/Backend-Hosted%20on%20Render-0077CC?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)
-#### URL: github.com/ishita95-harvad/bookmyshow-ai-clone
+
 </div>
 
 ---
