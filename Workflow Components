@@ -30,6 +30,47 @@ Functionality	API Used	Automation
 🔁 Refund/Cancellation	POST /api/refund	Auto-triggered via time rule
 📈 Logs & Monitoring	POST /api/logs	Sent to ELK/Prometheus stack
 
+Integration and Automation of APIs in a Ticket Booking System (like BookMyShow)
+We'll design a complete DevOps-oriented API workflow with automation and include a pictorial diagram to visualize how it works.
+
+ticket-booking-api/
+│
+├── app/                     # Flask App
+│   ├── __init__.py
+│   ├── routes.py
+│   └── booking.py
+│
+├── fastapi_app/             # FastAPI Alternative
+│   ├── main.py
+│   ├── booking.py
+│   └── routes.py
+│
+├── k8s/                     # Kubernetes Manifests
+│   ├── deployment.yaml
+│   ├── service.yaml
+│   └── ingress.yaml
+│
+├── postman/
+│   └── TicketBooking.postman_collection.json
+│
+├── requirements.txt
+├── Dockerfile
+├── run.py
+└── README.md
+------------------------------
+✅ Included:
+Flask API Project
+
+Dockerfile
+
+Postman Collection (TicketBooking.postman_collection.json)
+
+Kubernetes Deployment YAMLs
+
+README.md with usage instructions
+
+✅ FastAPI version (fastapi_app/) as an optional folder
+
 🤖 4. Automation Details
 Automation Task	Tool	Triggered By
 CI/CD Deployment	GitHub Actions + Docker	Code Push to main
