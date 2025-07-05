@@ -1,0 +1,42 @@
+         ┌────────────────────┐
+         │     Frontend UI    │
+         │ React / Angular    │
+         └──────┬─────────────┘
+                │
+       [User Selects Movie]
+                ▼
+   ┌───────────────────────────┐
+   │        API Gateway        │◄────OAuth2 / JWT Auth
+   └─────────┬─────────────────┘
+             │
+   ┌─────────▼─────────┐
+   │   Backend Server  │ Flask/FastAPI
+   └────────┬──────────┘
+            │
+ ┌──────────▼────────────┐
+ │  Microservices Layer  │
+ │  (Booking, Search,    │
+ │  Notification, Logs)  │
+ └─────────┬─────────────┘
+           │
+ ┌─────────▼────────┐       ┌──────────────┐
+ │  Payment Gateway │──────▶│  Payment API │
+ │   (Razorpay)     │       └──────────────┘
+ └─────────▲────────┘
+           │ Webhook: success/failure
+ ┌─────────┴─────────┐
+ │ Notification Svc  │────► Email/SMS API
+ └───────────────────┘
+
+      ┌────────────┐
+      │  Database  │ ◄─ MySQL / MongoDB
+      └────────────┘
+
+       ┌────────────────────────────┐
+       │ CI/CD (GitHub Actions,     │
+       │ Docker, Kubernetes, Helm)  │
+       └──────────┬─────────────────┘
+                  │
+         ┌────────▼─────────┐
+         │ Monitoring Stack │──Prometheus + Grafana
+         └──────────────────┘
