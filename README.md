@@ -110,7 +110,7 @@ An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI
 
 ### 📁 Project Structure
 
-book-your-show/
+book-your-show/includes:
 
 **├── client/ (React or Flutter)**
 
@@ -130,13 +130,13 @@ book-your-show/
 
 **├── README.md**
 
-├── .gitignore
+**├── .gitignore**
 
 ├── package.json (both frontend & backend)
 
-└── LICENSE
+**└── LICENSE**
 
-**├── package.json**
+├── package.json
 
 **└── .env**
 
