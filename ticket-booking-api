@@ -1,0 +1,38 @@
+ticket-booking-api/
+│
+├── app/                     # Flask App
+│   ├── __init__.py
+│   ├── routes.py
+│   └── booking.py
+│
+├── fastapi_app/             # FastAPI Alternative
+│   ├── main.py
+│   ├── booking.py
+│   └── routes.py
+│
+├── k8s/                     # Kubernetes Manifests
+│   ├── deployment.yaml
+│   ├── service.yaml
+│   └── ingress.yaml
+│
+├── postman/
+│   └── TicketBooking.postman_collection.json
+│
+├── requirements.txt
+├── Dockerfile
+├── run.py
+└── README.md
+------------------------------
+✅ Included:
+Flask API Project
+
+Dockerfile
+
+Postman Collection (TicketBooking.postman_collection.json)
+
+Kubernetes Deployment YAMLs
+
+README.md with usage instructions
+
+✅ FastAPI version (fastapi_app/) as an optional folder
+
