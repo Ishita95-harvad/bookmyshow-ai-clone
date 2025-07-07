@@ -125,6 +125,20 @@ Authored README, Postman suite, and deployment docs for production readiness
 **Stack:** Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
 
 ---
+### 📦 Repository Structure
+
+```bash
+/bookmyshow-ai/
+├── client/         # Next.js Frontend
+├── server/         # Node.js + Express Backend
+├── ai_services/    # Flask ML Microservices
+├── docs/           # Redoc API Docs (GitHub Pages)
+├── postman/        # Postman Collection
+├── .github/        # GitHub Actions CI/CD
+└── README.md       # You're here!
+
+-----
+
 ### 📦 How to Run Locally
 
 ```bash
