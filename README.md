@@ -108,7 +108,7 @@ An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI
 
 
 ---
-### Key Contributions:
+### 👉Key Contributions:
 
 **Developed microservices** using Node.js (Express) and Flask (Python)
 
