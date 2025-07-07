@@ -106,39 +106,6 @@ An intelligent full-stack clone of **BookMyShow**, enhanced with cutting-edge AI
 | 🔐 Fraud Detection Bot | Reflex Agent      | Flags risky payment behavior             |
 | 🤖 GPT Booking Chatbot | NLP Agent         | Books tickets via OpenAI GPT interaction |
 
----
-
-### 📁 Project Structure
-
-book-your-show/includes:
-
-**├── client/ (React or Flutter)**
-
-│   ├── pages/
-
-│   ├── components/
-
-│   └── services/ (API calls)
-
-**├── server/**
-
-│   ├── routes/
-
-│   ├── controllers/
-
-│   └── db.json (if using JSON Server)
-
-**├── README.md**
-
-**├── .gitignore**
-
-├── package.json (both frontend & backend)
-
-**└── LICENSE**
-
-├── package.json
-
-**└── .env**
 
 ---
 ### Key Contributions:
