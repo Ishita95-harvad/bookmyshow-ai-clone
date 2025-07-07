@@ -1,0 +1,29 @@
+/bookmyshow-clone/
+├── client/                     # 🎨 React + Tailwind UI for browsing & booking
+│   ├── components/             # Reusable UI elements (Navbar, Seats, etc.)
+│   ├── pages/                  # Next.js pages or React Router views
+│   └── public/                 # Static assets (images, favicons, etc.)
+│
+├── server/                     # 🧠 Node.js Express backend (API layer)
+│   ├── routes/                 # REST API endpoints (bookings, users, payments)
+│   ├── controllers/            # Logic for handling API responses
+│   ├── models/                 # MongoDB Mongoose schemas (Show, Booking, User)
+│   └── middleware/             # JWT Auth, rate-limiter, CORS config
+│
+├── ai_services/                # 🤖 Flask-based ML microservices
+│   ├── recommender.py          # Collaborative Filtering model
+│   ├── seat_demand.py          # XGBoost-based seat demand predictor
+│   ├── fraud_detection.py      # Logistic Regression fraud check
+│   └── gpt_chat.py             # GPT-4 chatbot API integration
+│
+├── docs/                       # 📘 OpenAPI 3.1 YAML + GitHub Pages deployment
+│   ├── openapi.yaml            # Full API schema (Redoc + Swagger support)
+│   └── index.html              # Hosted docs via GitHub Pages
+│
+├── .github/
+│   └── workflows/ci.yml        # 🔁 GitHub Actions CI/CD for auto-deployment
+│
+├── README.md                   # 📄 Setup, usage, architecture diagrams
+├── .env.example                # 🔐 Env vars: Mongo URI, Razorpay keys, JWT secret
+├── postman_collection.json     # 🧪 Full Postman collection for API testing
+└── automation/flows.json       # 🔁 n8n or Zapier workflows (booking → email → analytics)
