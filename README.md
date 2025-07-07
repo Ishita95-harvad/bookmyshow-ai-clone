@@ -124,6 +124,7 @@ Authored README, Postman suite, and deployment docs for production readiness
 
 **Stack:** Next.js · Node.js · Flask · MongoDB · Razorpay · OpenAI · Python · Vercel · Render
 
+![Image](9d78bbb1-3b38-406e-a00a-447ef0608c0d.png)
 ---
 ### 📦 Repository Structure
 
