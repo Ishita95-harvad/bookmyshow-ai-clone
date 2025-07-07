@@ -1,12 +1,17 @@
-🧳 Deliverables (Once Confirmed)
+ 
 ✅ 📁 Zipped Full Project Folder, including:
 
-/client → Next.js frontend
+/bookmyshow-clone/
+├── client/                  # React + Tailwind
+├── server/                  # Express + MongoDB
+├── ai_services/             # Flask microservices
+├── docs/                    # Redoc OpenAPI + GitHub Pages site
+├── .github/workflows/ci.yml# GitHub Actions CI/CD
+├── README.md                # Full deployment + usage guide
+└── .env.example             # Razorpay, Mongo URI, etc.
 
-/server → Node.js backend
-
-/ml-services → Python (Flask) microservices:
-
+🧳 Deliverables
+---------------------------------------------------------------------------------------------------------
 🎬 Movie Recommender
 
 🪑 Seat Demand Predictor
