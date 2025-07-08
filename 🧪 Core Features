@@ -1,5 +1,5 @@
 🧪 Core Features:
-User Module:
+1.User Module:
 
 Sign up / Login
 
@@ -11,7 +11,7 @@ Select seat(s) and pay
 
 Download e-ticket (PDF/QR)
 
-Admin Module:
+2.Admin Module:
 
 Add/Edit/Delete Movies
 
@@ -21,7 +21,7 @@ Schedule Showtimes
 
 View all bookings
 
-Bonus Features:
+3.Bonus Features:
 
 QR-code ticket validation
 
