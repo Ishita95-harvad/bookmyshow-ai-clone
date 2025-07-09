@@ -1,0 +1,11 @@
+🧠 What We'll Build: AI Agents in the Booking System
+
+| Module                   | Agent Type                 | Description                                                                             |
+| ------------------------ | -------------------------- | --------------------------------------------------------------------------------------- |
+| 🎬 Movie Recommender     | **Learning Agent**         | Uses ML to suggest movies based on past bookings, genre preference, and user profile.   |
+| 🤖 Booking Chatbot       | **Natural Language Agent** | NLP-based assistant for booking via text/voice (e.g., using OpenAI/GPT API or Rasa).    |
+| 📊 Seat Demand Predictor | **Predictive Agent**       | Forecasts popular showtimes and dynamically suggests early bookings or alternate slots. |
+| 💳 Payment Risk Checker  | **Reflex Agent**           | Flags unusual payment behavior using rule-based + ML classification.                    |
+| 📍 Location Optimizer    | **Goal-Based Agent**       | Finds nearby theaters with optimal seats/time using geolocation and logic.              |
+| 👥 Admin Assistant Bot   | **Reactive Agent**         | Monitors bookings, triggers alerts, or recommends showtime changes.                     |
+| 🧭 Scheduler Optimizer   | **Multi-Agent System**     | Adjusts screening frequency across locations based on crowd prediction.                 |
