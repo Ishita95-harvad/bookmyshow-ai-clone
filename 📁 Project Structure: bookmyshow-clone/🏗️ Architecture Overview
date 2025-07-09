@@ -1,0 +1,9 @@
+graph LR
+A[User Interface] --> B[Chatbot Agent]
+A --> C[Movie Recommendation Agent]
+B --> D[Booking Engine]
+C --> D
+D --> E[Seat Selection Module]
+E --> F[Payment Processor Agent]
+F --> G[Fraud Detection Agent]
+D --> H[Analytics + Dashboard Agent]
